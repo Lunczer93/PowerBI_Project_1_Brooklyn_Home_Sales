@@ -8,10 +8,15 @@ I am interested in details about this topic, so if I find anything interesting t
 ANALYSIS
 
 To analyze and visualize this data, DAX (Data Analysis Expression) and PowerBI were utilized respectively.
+
 An analysis was conducted so as to find out about the Sales Price of the Building Class in selected neighborhoods in Brooklyn between 2003 and 2017. 
+
 An in-depth analysis was performed in order to show which neighborhood has the greatest popularity in terms of the quantity of sold buildings in this time of period.
+
 The calculation for year over year and month over month Sales were also performed for the Building Class in selected neighborhoods. 
+
 An in-depth analysis was also done to demonstrate Total Sales of entities by MTD, QTD, YTD for the Building Class in selected neighborhoods.
+
 The quantity of Buildings, which were sold greater than 1 Million $, was also calculated.
 
 MAIN CONCLUSIONS
