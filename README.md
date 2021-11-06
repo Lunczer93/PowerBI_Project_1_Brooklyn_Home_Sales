@@ -1,11 +1,11 @@
 # PowerBI_Project_1_Brooklyn_Home_Sales
 
-INTRODUCTION
+# INTRODUCTION
 
 I was asked to analyze and visualize data regarding Home Sales in Brooklyn in 2003 and 2017 years. 
 I am interested in details about this topic, so if I find anything interesting then I do not hesitate to bring that in also. 
 
-ANALYSIS
+# ANALYSIS
 
 To analyze and visualize this data, DAX (Data Analysis Expression) and PowerBI were utilized respectively.
 
@@ -19,7 +19,7 @@ An in-depth analysis was also done to demonstrate Total Sales of entities by MTD
 
 The quantity of Buildings, which were sold greater than 1 Million $, was also calculated.
 
-MAIN CONCLUSIONS
+# MAIN CONCLUSIONS
 
 1.	The greatest Sales Price belongs to Rentals Elevator Apartments.
 2.	The greatest number of Sold Buildings belongs to Two Family Homes
